@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Telegram Clone Maker
+Exec=bash "/home/saimum/Desktop/telegram-clone-maker.sh"
+Icon=org.telegram.desktop
+Terminal=false
+Categories=Network;
